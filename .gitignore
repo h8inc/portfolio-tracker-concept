@@ -6,3 +6,4 @@ dist
 .env.*
 .claude
 CoType Foundry Trial Fonts
+*.png
